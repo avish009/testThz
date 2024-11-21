@@ -23,7 +23,3 @@ Sometimes, we take summer interns if we get exceptional applicants (this usually
 
 ### Honour's projects for uOttawa physics students
 If you are a physics student at uOttawa looking for a Honour's project, contact me (or any group member) per email or stop by my office.
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
